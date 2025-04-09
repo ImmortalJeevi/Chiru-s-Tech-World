@@ -1,4 +1,4 @@
-## # Hi there👋 I'm Chiranjeevi 
+## Hi there👋 I'm Chiranjeevi 
 A Machine learning enthusiast who codes to create software that makes a difference in people's lives. When I'm not coding, I'm probably traveling or dreaming about my next adventure. Open to collaborations and discussions about tech, innovation, and impactful projects
 I'm an engineering student at Amrita Vishwa Vidyapeetham, driven to create impactful projects that solve real-world problems and inspire positive change<br/>
 
